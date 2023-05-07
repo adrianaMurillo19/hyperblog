@@ -2,13 +2,13 @@ body
 {
     color: aqua;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Calibri";
 }
 #container
 {
     width: 70%;
     padding: lem;
-    border: 1px solidcolor #000;
+    border: 1px solidcolor #882626;
     margin: 0 auto;
 }
 
